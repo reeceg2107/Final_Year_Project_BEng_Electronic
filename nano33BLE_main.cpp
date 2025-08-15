@@ -1,5 +1,5 @@
 #include <PDM.h>
-#include "reeceg-project-1_inferencing.h"  
+#include "inferencing.h"  
 
 // Voice command settings
 const char TARGET_COMMAND[] = "wake_up";
